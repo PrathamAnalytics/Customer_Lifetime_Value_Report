@@ -1,5 +1,7 @@
 # ***Customer Lifetime Value Report (CLV)***
 
+![Image](Image.png)
+
 
 # ***Overview***  
 This project aims to understand customer behaviors, segment values, and identify the most profitable segments based on **Customer Lifetime Value (CLV)** using **Python for EDA** and **SQL for advanced business queries**.  
@@ -24,9 +26,10 @@ The dataset represents **customer transactions across countries** including demo
 
 
 # ***Technical Overview***  
+- **Excel** for Data Cleaning and Structuring
 - **Python (Pandas, Seaborn, Matplotlib)** used for EDA  
 - **SQL (PostgreSQL style)** for advanced analysis  
-- Cleaned 40+ columns, analyzed 15,000+ records  
+- Cleaned 40+ columns, analyzed over 3,00,000 records  
 - Derived KPIs: revenue, retention, cohort patterns, segmentation, brand loyalty, etc.
 
 
