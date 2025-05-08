@@ -95,38 +95,38 @@ The dataset represents **customer transactions across countries** including demo
 
 ### 2. **Gender-Based Personalization**  
 - Female customers spend **~11.3% more** per transaction.  
-- Create **gender-focused campaigns**, especially for **beauty & fashion** segments.  
-- Utilize demographic-based recommendation engines and personalized emails to drive even higher conversion rates.
+  - Create **gender-focused campaigns**, especially for **beauty & fashion** segments.  
+  - Utilize demographic-based recommendation engines and personalized emails to drive even higher conversion rates.
 
 
 ### 3. **Boost Premium Product Visibility**  
 - Electronics & Furniture yield **highest AOVs**.  
-- Highlight them in **seasonal campaigns**, **EMI plans**, and **homepage banners**.  
-- Consider bundling high-ticket items with complementary accessories to increase cart size and upselling potential.
+  - Highlight them in **seasonal campaigns**, **EMI plans**, and **homepage banners**.  
+  - Consider bundling high-ticket items with complementary accessories to increase cart size and upselling potential.
 
 
 ### 4. **Refine Feedback Loop**  
 - Poor ratings cluster around certain **shipping methods** and **COD** payments.  
-- Offer **feedback-based coupons** and switch **COD orders** to prepaid via cashback.  
-- Additionally, set up automated alerts for low-rated products or brands to allow immediate intervention.
+  - Offer **feedback-based coupons** and switch **COD orders** to prepaid via cashback.  
+  - Additionally, set up automated alerts for low-rated products or brands to allow immediate intervention.
 
 
 ### 5. **Use Geo-Targeted Marketing**  
 - Focus ads in **top 5 revenue cities** (New York, Mumbai, London).  
-- Run **hyperlocal deals** using city-wise performance maps.  
-- Combine this with regional influencers or localized creatives to make the campaigns feel personal and effective.
+  - Run **hyperlocal deals** using city-wise performance maps.  
+  - Combine this with regional influencers or localized creatives to make the campaigns feel personal and effective.
 
 
 ### 6. **Streamline Low-Performing Categories**  
 - Reduce stock for underperforming items with **low revenue and low ratings**.  
-- Replace them with variants proven to convert in other customer segments.  
-- Use continuous A/B testing to evaluate new product introductions and optimize inventory rotation cycles.
+  - Replace them with variants proven to convert in other customer segments.  
+  - Use continuous A/B testing to evaluate new product introductions and optimize inventory rotation cycles.
 
 
 ### 7. **Empower Data-Driven Teams**  
 - Share monthly CLV dashboards with Sales, Marketing & Ops.  
-- Create **real-time KPI boards** for city, segment, and feedback metrics.  
-- Train key stakeholders in interpreting the dashboards so decisions can be agile and evidence-based.
+  - Create **real-time KPI boards** for city, segment, and feedback metrics.  
+  - Train key stakeholders in interpreting the dashboards so decisions can be agile and evidence-based.
 
 
 # ***Data Limitations***  
