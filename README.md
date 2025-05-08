@@ -64,7 +64,7 @@ The dataset represents **customer transactions across countries** including demo
   4. Beauty – ₹774,890  
   5. Furniture – ₹693,570  
 
-- **Average Rating**: 3.94 ⭐  
+- **Average Rating**: 3.94   
 - Customers giving **below 2-star ratings** mostly used *Cash on Delivery*
 
 ## Geographic Insights  
